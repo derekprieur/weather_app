@@ -1,6 +1,6 @@
 {
     "/*": {
-        "target": "https://derekprieur.github.io/weather_app/",
+        "target": "https://derekprieur.github.io",
         "secure": false,
         "logLevel": "debug"
     }
